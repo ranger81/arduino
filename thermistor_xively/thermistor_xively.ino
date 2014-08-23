@@ -58,7 +58,7 @@ void loop() {
 
   int val;
   double temp;
-  val = analogRead(2); //Analog Pin 2
+  val = analogRead(sensorPin); //Analog Pin 2
 
   float sensorValue = Thermister(val);;
   datastreams[0].setFloat(sensorValue);
