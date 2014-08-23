@@ -1,6 +1,5 @@
 /*
  Thermistor Serial Monitor all 60 seconds
- https://xively.com/feeds/1457109366
  https://wiki.dakunier.de
  https://github.com/Dakunier/arduino
  twitter: @dakunier_de
